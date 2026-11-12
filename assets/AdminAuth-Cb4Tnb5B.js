@@ -1,0 +1,1 @@
+import{j as t,N as r}from"./index-Dg8riLNE.js";const a=()=>!!localStorage.getItem("admin_token"),o=({children:e})=>a()?t.jsx(t.Fragment,{children:e}):t.jsx(r,{to:"/admin/login",replace:!0});export{o as default,a as isAuthenticated};

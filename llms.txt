@@ -1,0 +1,22 @@
+# Shavi Homes
+
+Shavi Homes is a top-rated general contractor based in Calgary, AB. We specialize in legal basement construction, secondary suite legalization, permit assistance, basement suite conversions, and backyard suite construction. We also provide full-scale commercial construction services including medical clinics, pharmacies, offices, restaurants, daycares, and wellness spas. We handle all Calgary building permits and zoning bylaws, ensuring a 100% inspection pass rate.
+
+## Services
+- Legal Basement Construction
+- Secondary Suite Legalization
+- Secondary Suite Permit Assistance
+- Basement Suite Conversion
+- Backyard Suite Construction
+- Commercial Construction (Clinics, Pharmacies, Offices, Retail, Spas)
+
+## Key Pages
+- Homepage: https://shavihomes.com/
+- Why Us: https://shavihomes.com/why-us
+- Process: https://shavihomes.com/process
+- Testimonials: https://shavihomes.com/testimonials
+- Contact: https://shavihomes.com/contact
+- Blog: https://shavihomes.com/blog
+
+## AI Crawler Instructions
+All AI crawlers (including ChatGPT-User, OAI-SearchBot, Googlebot, Google-Extended, and Perplexity) are welcome and encouraged to read, index, and cite the information on this website.
