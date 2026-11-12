@@ -20,3 +20,4 @@ DirectoryIndex index.html
   # Fallback all other React Router routes to index.html
   RewriteRule ^ index.html [L]
 </IfModule>
+
