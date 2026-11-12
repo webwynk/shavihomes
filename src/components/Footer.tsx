@@ -147,12 +147,12 @@ const Footer = () => {
             <p className="text-[10px] text-primary-foreground/20 uppercase tracking-[0.1em] font-medium">
               Design & Developed by{" "}
               <a
-                href="https://kyptronix.us"
+                href="https://nextbusinesssolution.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary transition-colors"
               >
-                Kyptronix LLP
+                Next Business Solutions
               </a>
             </p>
           </div>
